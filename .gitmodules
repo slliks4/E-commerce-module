@@ -1,0 +1,9 @@
+[submodule "Ecommerce-frontend"]
+	path = Ecommerce-frontend
+	url = https://github.com/slliks4/Ecommerce_frontend.git
+[submodule "Ecommerce-jquery"]
+	path = Ecommerce-jquery
+	url = https://github.com/slliks4/Ecommerce-jquery.git
+[submodule "Ecommerce-server"]
+	path = Ecommerce-server
+	url = https://github.com/slliks4/Ecommerce-server.git
